@@ -10,6 +10,7 @@ import tempfile
 app = Flask(__name__)
 CORS(app)
 
+# test
 # Global variables for playlist management
 current_directory = None
 current_playlist = [] # Stores full paths on server
